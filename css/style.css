@@ -1,0 +1,91 @@
+body{
+
+background:#F0812F;
+
+}
+
+.container{
+
+background:#F0C87F;
+
+}
+
+h1{
+
+border:#FC5F33 3px;
+
+background:#D9512C;
+
+color:FCE833;
+
+text-align:center;
+
+font-size:7em;
+
+font-weight:bold;
+
+font-family:"Arial Black", Gadget, sans-serif;
+
+}
+
+h2{
+
+	font-size:2.2em;
+
+	color:#D94E00;
+
+	font-family:Impact, Charcoal, sans-serif;
+
+}
+
+.active{
+
+	background:#D94D1A;
+
+}
+
+h3{
+
+	font-size: 1.8em;
+
+	color:#D94E00;
+
+	font-family:Impact, Charcoal, sans-serif;
+
+}
+
+h4{
+
+	font-size: 1.6em;
+
+	color: #D97336;
+
+	font-family:Impact, Charcoal, sans-serif;
+
+}
+
+p{
+
+color:#F06D0E;
+
+font-size:1.1em;
+
+}
+
+.cms a h2{
+
+color:gray;
+
+}
+
+.input-group{
+
+float:right;
+
+}
+
+a{
+
+color:#BF100B;
+
+}
